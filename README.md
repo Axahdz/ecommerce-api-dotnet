@@ -14,7 +14,7 @@ Proyecto web de una tienda de bolsas desarrollado con HTML, CSS, JavaScript y No
 
 
 
-!\[Vista de la página 1](images/1.jpg)
+!\[Vista de la página 1](./images/1.jpg)
 
 
 
@@ -22,7 +22,7 @@ Proyecto web de una tienda de bolsas desarrollado con HTML, CSS, JavaScript y No
 
 
 
-!\[Vista de la página 2](images/2.jpg)
+!\[Vista de la página 2](./images/2.jpg)
 
 
 
